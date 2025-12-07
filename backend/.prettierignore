@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Package manager lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Git
+.git/
+.gitignore
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.svg
+*.png
+*.jpg
